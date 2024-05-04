@@ -1,1 +1,9 @@
-[{"id":1,"cat":"prova1"}]
+[
+  {"id":1,"cat":"Bibite"},
+  {"id":2,"cat":"Antipasti"},
+  {"id":3,"cat":"Primi"},
+  {"id":4,"cat":"Secondi"},
+  {"id":5,"cat":"Contorni"},
+  {"id":6,"cat":"Dolci"},
+  {"id":7,"cat":"Frutta"}
+]
