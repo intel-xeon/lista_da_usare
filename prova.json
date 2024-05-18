@@ -4,8 +4,8 @@
     {"nome":"Coca cola","descrizione":"Lattina di Coca Cola","prezzo":"2,00€","immagine":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY26Fiy4BmDu9Fo_AIBrRbaDW2UTFao7m9augq9gZB6w&s"}
   ]},
   {"id":2,"cat":"Antipasti","articoli":[
-    {"nome":"Frittura all'italiana","descrizione":"Frittura mista di specialità italiane","prezzo":"6,00€","immagine":"https://www.osteriadacarmela.it/wp-content/uploads/2017/02/Frittura-italiana.jpg"},
-    {"nome":"Bruschette(2 a porzione)","descrizione":"Due bruschette per porzione","prezzo":"3,00€","immagine":"https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2009/11/ricetta-bruschetta-pomodoro/_MG_8642.jpg"}
+    {"nome":"Frittura all'italiana","descrizione":"Frittura mista di specialità italiane","prezzo":"6,00€","immagine":"https://postimg.cc/3kfpvy6j"},
+    {"nome":"Bruschette(2 a porzione)","descrizione":"Due bruschette per porzione","prezzo":"3,00€","immagine":"https://postimg.cc/4mZzJnhZ"}
   ]},
   {"id":3,"cat":"Primi","articoli":[
     {"nome":"Carbonara","descrizione":"Classica pasta alla carbonara","prezzo":"7,00€","immagine":"https://www.giallozafferano.it/images/219-21928/Spaghetti-alla-Carbonara_650x433_wm.jpg"},
@@ -24,7 +24,7 @@
     {"nome":"Sfogliatella","descrizione":"Sfogliatella riccia napoletana","prezzo":"7,00€","immagine":"https://dolciariaacquaviva.com/wp-content/uploads/2019/09/SF0015_SF0013.jpg"}
   ]},
   {"id":7,"cat":"Frutta","articoli":[
-    {"nome":"Banana","descrizione":"Banana fresca","prezzo":"4,00€","immagine":"https://www.lovemysalad.com/sites/default/files/styles/image_530x397/public/banaan-large.jpg?itok=6dMC29Mu"},
+    {"nome":"Banana","descrizione":"Banana fresca","prezzo":"4,00€","immagine":"https://media.istockphoto.com/id/157375066/it/foto/banana-clipping-path.jpg?s=1024x1024&w=is&k=20&c=CULducBIn2UlTEm722CCeTYhCrb8UhlvwQbgLBorrE8="},
     {"nome":"Mela","descrizione":"Mela fresca","prezzo":"7,00€","immagine":"https://www.melavi.it/images/core/ninejcache/ninejproduct/ninejproduct_10-red-delicious/red-delicious_700x700.jpg"}
   ]}
 ]
