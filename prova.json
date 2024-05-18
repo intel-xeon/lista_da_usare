@@ -4,8 +4,8 @@
     {"nome":"Coca cola","descrizione":"Lattina di Coca Cola","prezzo":"2,00€","immagine":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY26Fiy4BmDu9Fo_AIBrRbaDW2UTFao7m9augq9gZB6w&s"}
   ]},
   {"id":2,"cat":"Antipasti","articoli":[
-    {"nome":"Frittura all'italiana","descrizione":"Frittura mista di specialità italiane","prezzo":"6,00€","immagine":"https://postimg.cc/3kfpvy6j"},
-    {"nome":"Bruschette(2 a porzione)","descrizione":"Due bruschette per porzione","prezzo":"3,00€","immagine":"https://postimg.cc/4mZzJnhZ"}
+    {"nome":"Frittura all'italiana","descrizione":"Frittura mista di specialità italiane","prezzo":"6,00€","immagine":"https://i.postimg.cc/KYx5CBDW/Frittura-italiana-1.jpg"},
+    {"nome":"Bruschette(2 a porzione)","descrizione":"Due bruschette per porzione","prezzo":"3,00€","immagine":"https://i.postimg.cc/Hs839yYJ/Bruschette-ricetta-7544-2.jpg"}
   ]},
   {"id":3,"cat":"Primi","articoli":[
     {"nome":"Carbonara","descrizione":"Classica pasta alla carbonara","prezzo":"7,00€","immagine":"https://www.giallozafferano.it/images/219-21928/Spaghetti-alla-Carbonara_650x433_wm.jpg"},
