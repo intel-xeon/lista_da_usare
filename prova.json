@@ -1,9 +1,9 @@
 [
-  {"id":1,"cat":"Bibite"},
-  {"id":2,"cat":"Antipasti"},
-  {"id":3,"cat":"Primi"},
-  {"id":4,"cat":"Secondi"},
-  {"id":5,"cat":"Contorni"},
-  {"id":6,"cat":"Dolci"},
-  {"id":7,"cat":"Frutta"}
+  {"id":1,"cat":"Bibite","articoli":[{"nome":"Acqua Naturale 1L","prezzo":"1,50€"},{"nome":"Coca cola","prezzo":"2,00€"}]},
+  {"id":2,"cat":"Antipasti","articoli":[{"nome":"Frittura all'italiana","prezzo":"6,00€"},{"nome":"Bruschette(2 a porzione)","prezzo":"3,00€"}]},
+  {"id":3,"cat":"Primi","articoli":[{"nome":"Carbonara","prezzo":"7,00€"},{"nome":"Pomodoro Fresco","prezzo":"4,00€"}]},
+  {"id":4,"cat":"Secondi","articoli":[{"nome":"Pescespada","prezzo":"12,00€"},{"nome":"Astice","prezzo":"24,00€"}]},
+  {"id":5,"cat":"Contorni","articoli":[{"nome":"Lattughino","prezzo":"0,50€"},{"nome":"Insalata","prezzo":"1,00€"}]},
+  {"id":6,"cat":"Dolci","articoli":[{"nome":"Zeppola","prezzo":"3,00€"},{"nome":"Sfogliatella","prezzo":"7,00€"}]},
+  {"id":7,"cat":"Frutta","articoli":[{"nome":"Banana","prezzo":"4,00€"},{"nome":"Mela","prezzo":"7,00€"}]}
 ]
