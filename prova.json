@@ -1,9 +1,30 @@
 [
-  {"id":1,"cat":"Bibite","articoli":[{"nome":"Acqua Naturale 1L","prezzo":"1,50€"},{"nome":"Coca cola","prezzo":"2,00€"}]},
-  {"id":2,"cat":"Antipasti","articoli":[{"nome":"Frittura all'italiana","prezzo":"6,00€"},{"nome":"Bruschette(2 a porzione)","prezzo":"3,00€"}]},
-  {"id":3,"cat":"Primi","articoli":[{"nome":"Carbonara","prezzo":"7,00€"},{"nome":"Pomodoro Fresco","prezzo":"4,00€"}]},
-  {"id":4,"cat":"Secondi","articoli":[{"nome":"Pescespada","prezzo":"12,00€"},{"nome":"Astice","prezzo":"24,00€"}]},
-  {"id":5,"cat":"Contorni","articoli":[{"nome":"Lattughino","prezzo":"0,50€"},{"nome":"Insalata","prezzo":"1,00€"}]},
-  {"id":6,"cat":"Dolci","articoli":[{"nome":"Zeppola","prezzo":"3,00€"},{"nome":"Sfogliatella","prezzo":"7,00€"}]},
-  {"id":7,"cat":"Frutta","articoli":[{"nome":"Banana","prezzo":"4,00€"},{"nome":"Mela","prezzo":"7,00€"}]}
+  {"id":1,"cat":"Bibite","articoli":[
+    {"nome":"Acqua Naturale 1L","descrizione":"Bottiglia di acqua naturale da 1 litro","prezzo":"1,50€","immagine":"https://www.levissima.it/sites/site.prod1.levissima.it/files/2024-02/Levissima_naturale_1_lt_100perc_grande.jpg"},
+    {"nome":"Coca cola","descrizione":"Lattina di Coca Cola","prezzo":"2,00€","immagine":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY26Fiy4BmDu9Fo_AIBrRbaDW2UTFao7m9augq9gZB6w&s"}
+  ]},
+  {"id":2,"cat":"Antipasti","articoli":[
+    {"nome":"Frittura all'italiana","descrizione":"Frittura mista di specialità italiane","prezzo":"6,00€","immagine":"https://www.osteriadacarmela.it/wp-content/uploads/2017/02/Frittura-italiana.jpg"},
+    {"nome":"Bruschette(2 a porzione)","descrizione":"Due bruschette per porzione","prezzo":"3,00€","immagine":"https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2009/11/ricetta-bruschetta-pomodoro/_MG_8642.jpg"}
+  ]},
+  {"id":3,"cat":"Primi","articoli":[
+    {"nome":"Carbonara","descrizione":"Classica pasta alla carbonara","prezzo":"7,00€","immagine":"https://www.giallozafferano.it/images/219-21928/Spaghetti-alla-Carbonara_650x433_wm.jpg"},
+    {"nome":"Pomodoro Fresco","descrizione":"Pasta al pomodoro fresco","prezzo":"4,00€","immagine":"https://angelasimonelli.it/wp-content/uploads/2020/07/spaghetti-al-pomodoro-fresco-08.jpg"}
+  ]},
+  {"id":4,"cat":"Secondi","articoli":[
+    {"nome":"Pescespada","descrizione":"Trancio di pescespada alla griglia","prezzo":"12,00€","immagine":"https://www.cucchiaio.it/content/cucchiaio/it/ricette/2009/12/ricetta-pesce-spada-al-forno/_jcr_content/header-par/image_single.img.jpg/1614609966961.jpg"},
+    {"nome":"Astice","descrizione":"Astice fresco","prezzo":"24,00€","immagine":"https://www.donnamoderna.com/content/uploads/2023/05/acbd465481687e96.jpg"}
+  ]},
+  {"id":5,"cat":"Contorni","articoli":[
+    {"nome":"Lattughino","descrizione":"Lattuga fresca","prezzo":"0,50€","immagine":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-hOMLYnMrrB5am5_VyPIMKrujQLMtxsxAKRc9Aal1NA&s"},
+    {"nome":"Insalata","descrizione":"Mista di verdure fresche","prezzo":"1,00€","immagine":"https://static.planeat.eco/media/item_pics/insalata-novella-tagliata-pronta-al-consumo-600x400.jpg"}
+  ]},
+  {"id":6,"cat":"Dolci","articoli":[
+    {"nome":"Zeppola","descrizione":"Zeppola dolce di San Giuseppe","prezzo":"3,00€","immagine":"https://www.lovemysalad.com/sites/default/files/styles/image_530x397/public/banaan-large.jpg?itok=6dMC29Muhttps://www.quotidiano.net/image-service/view/acePublic/alias/contentid/ODVhZDBjOGQtNTQyMC00/0/zeppole-di-san-giuseppe-il-dolce-per-la-festa-del-papa.webp?f=16%3A9&q=1&w=1560"},
+    {"nome":"Sfogliatella","descrizione":"Sfogliatella riccia napoletana","prezzo":"7,00€","immagine":"https://dolciariaacquaviva.com/wp-content/uploads/2019/09/SF0015_SF0013.jpg"}
+  ]},
+  {"id":7,"cat":"Frutta","articoli":[
+    {"nome":"Banana","descrizione":"Banana fresca","prezzo":"4,00€","immagine":"https://www.lovemysalad.com/sites/default/files/styles/image_530x397/public/banaan-large.jpg?itok=6dMC29Mu"},
+    {"nome":"Mela","descrizione":"Mela fresca","prezzo":"7,00€","immagine":"https://www.melavi.it/images/core/ninejcache/ninejproduct/ninejproduct_10-red-delicious/red-delicious_700x700.jpg"}
+  ]}
 ]
